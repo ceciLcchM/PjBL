@@ -1,0 +1,18 @@
+.container {
+  background-color: rgb(166, 33, 248);
+  width: 55%;
+  margin: 35px auto;
+  padding: 15px;
+  border-radius: 8px;
+  border-style:groove;
+  border-color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.containerDataList {
+  color: rgb(255, 255, 255);
+  margin-bottom: 5px;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: medium;
+}

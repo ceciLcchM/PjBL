@@ -1,0 +1,31 @@
+.card {
+background: rgb(214, 170, 255);
+color:black;
+border-radius: 12px;
+padding: 16px;
+margin: 16px auto;
+max-width: 500px;
+box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+transition: all 0.2s ease;
+}
+
+.card:hover {
+transform: translateY(-4px);
+box-shadow: 0 6px 14px rgba(0,0,0,0.15);
+}
+
+.card-content {
+text-align: center;
+}
+
+.card-actions {
+display: flex;
+justify-content: center;
+margin-top: 10px;
+}
+
+.btn-primary {
+background-color: #4f2e63; 
+color: white;
+
+}
