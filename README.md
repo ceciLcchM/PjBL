@@ -51,7 +51,7 @@ CREATE DATABASE musicas_db;
 USE musicas_db;
 ```
 
-Isso foi necessário durante os testes, pois foi observado que sem essas linhas, o script pode falhar
+Isso foi necessário, pois durante os testes foi observado que sem essas linhas, o script pode falhar
 O erro ocorre porque o banco de dados pode não existir ainda
 
 ---
